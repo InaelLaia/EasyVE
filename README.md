@@ -8,8 +8,6 @@ Snack Expo Dev: Ambiente de desenvolvimento online para escrever e editar o cód
 
 Firebase Real Time Database: Para realizar a simulação de dados iniciais, salvar e editar novas informações que devem ser armazenadas  
 
-React Native: Linguagem de programação escolhida para desenvolver a maior parte das funcionalidades do aplicativo  
-
-CSS e JavaScript: Para demais composições que foram necessárias para a conclusão do projeto
+React Native, CSS e JavaScript: Para desenvolvimento das funcionalidades lógicas e visuais do aplicativo necessários para a conclusão do projeto
 
 
